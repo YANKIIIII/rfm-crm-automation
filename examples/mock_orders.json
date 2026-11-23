@@ -1,0 +1,17 @@
+[
+  {"customer_id": "c01", "customer_name": "Alpha Fleet", "order_date": "2026-10-12", "amount": 1800},
+  {"customer_id": "c01", "customer_name": "Alpha Fleet", "order_date": "2026-08-03", "amount": 2200},
+  {"customer_id": "c01", "customer_name": "Alpha Fleet", "order_date": "2026-05-19", "amount": 950},
+  {"customer_id": "c01", "customer_name": "Alpha Fleet", "order_date": "2026-03-01", "amount": 1100},
+  {"customer_id": "c01", "customer_name": "Alpha Fleet", "order_date": "2025-12-15", "amount": 700},
+  {"customer_id": "c01", "customer_name": "Alpha Fleet", "order_date": "2025-11-02", "amount": 640},
+  {"customer_id": "c02", "customer_name": "Beta Motors", "order_date": "2026-09-20", "amount": 420},
+  {"customer_id": "c02", "customer_name": "Beta Motors", "order_date": "2026-07-11", "amount": 380},
+  {"customer_id": "c03", "customer_name": "Gamma Shop", "order_date": "2025-06-01", "amount": 150},
+  {"customer_id": "c04", "customer_name": "Delta Cars", "order_date": "2026-11-01", "amount": 3200},
+  {"customer_id": "c04", "customer_name": "Delta Cars", "order_date": "2026-06-18", "amount": 900},
+  {"customer_id": "c04", "customer_name": "Delta Cars", "order_date": "2026-02-09", "amount": 450},
+  {"customer_id": "c05", "customer_name": "Echo Garage", "order_date": "2024-10-05", "amount": 80},
+  {"customer_id": "c06", "customer_name": "Foxtrot Ltd", "order_date": "2026-04-22", "amount": 2100},
+  {"customer_id": "c06", "customer_name": "Foxtrot Ltd", "order_date": "2025-11-30", "amount": 1900}
+]

@@ -1,0 +1,4 @@
+# Demo has no hard runtime deps beyond stdlib.
+# Optional live integrations:
+# requests>=2.31
+# google-api-python-client>=2.100

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+secrets/
+examples/out/
+.DS_Store
+*.xlsx
+*.sql
+runs/
